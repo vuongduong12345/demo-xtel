@@ -1,0 +1,27 @@
+.logo{
+    max-width: 170px;
+    margin: 20px;
+}
+.nav-menu1{
+       padding: 0px 10px;
+       display: inline;
+       cursor: pointer;
+       &:hover {color:#007bff;}
+    }
+
+.image{
+    margin: 0px auto;   
+}
+
+.text-about {
+    color: #212529;
+    margin: 0px 0px 16px;
+}
+
+.company-text:hover {
+    color: #009CD7;
+}
+
+.row-tech-new {
+    border: 1px solid rgba(0,0,0,.125);
+}
